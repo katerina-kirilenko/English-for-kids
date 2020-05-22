@@ -1,2 +1,2 @@
-# katerina-kirilenko-RS2020Q1
-Private repository for @katerina-kirilenko
+# English for kids
+Ссылка на [демо](https://katerina-kirilenko-english-for-kids.netlify.app/).
