@@ -16,7 +16,7 @@
   "license": "ISC",
   "homepage": "https://github.com/rolling-scopes-school/katerina-kirilenko-RS2020Q1... #readme",
   "dependencies": {
-    "lodash": "^4.17.19"
+    "lodash": "^4.17.21"
   },
   "devDependencies": {
     "@babel/core": "^7.9.0",
